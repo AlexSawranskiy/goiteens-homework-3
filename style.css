@@ -1,7 +1,7 @@
-.link {
+a[href=https] {
     color: red;
 }
 
-.text {
+ul + p {
     font-size: 24px;
 }
